@@ -8,7 +8,7 @@ public class PaymentDataConstructor {
 
 	public static Map<String, String> ConstructDummyData() {
 		Map<String, String> data = new HashMap<String, String>();
-		data.put("merchantnumber", "8885334");
+		data.put("merchantnumber", "99999999");
 		data.put("currency", "DKK");
 		data.put("amount", "1000");
 		data.put("orderid", "1234567890");
